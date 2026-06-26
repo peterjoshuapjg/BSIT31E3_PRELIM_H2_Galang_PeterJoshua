@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<university>
+	<Course name="Information Technology">
+
+		<student id="1001">
+			<name>Peter Joshua Galang</name>
+			<yearLevel>3</yearLevel>
+			<course>BSIT</course>
+		</student>
+	</Course>
+</university>
